@@ -5,18 +5,37 @@ This section provides the ISC with a view of the support received from the commu
 An optional section would be for R-Core signatories where changes to R are proposed.
 -->
 
+This proposal is created as a succession of the recently finished first instance of the Platypus project. It aims at delivering extended functionality to the R community. First version of the package is available on github: https://github.com/maju116/platypus.
+
+The reason behind our belief in the Platypus usefulness is the support and eagerness to estabish cooperation with us that has been already expressed by both the MLR Team and the WhyR Foundation. It is also not an exploratory project but rather development of the existing MVP. All that because of the tremendous work that the Platypus main creator put into bringing the idea out of the concept phase and putting in the cornerstone for this proposed project.
+
+
 ## Project team
 <!-- 
 Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?
 -->
+The mastermind behind the package and main team member is Michał Maj. Bio Michała: .....
+
+Another core member representing mainly the AI section of the project is Jakub Borkowski. Bio Jakuba: .....
+
+Last but not least member is Tadeusz Satława, connecting the ideas of Data Science and the reliable programming practices.
+Bio Tadeusza: ..........
+
 
 ## Contributors
 <!-- 
 Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?
 -->
+For the time being people contributing are solely the team members. In the nearest future, after the first stage of development, we will be eager to welcome any suggestions and assitance in enhancing Platypus's functionalities. 
 
 ## Consulted
 <!-- 
 Who has been given the opportunity to provide feedback on the proposal? This should include any R Consortium & ISC members who the proposal has been discussed with.
 -->
+We are being constantly consulted by Marcin Kosiński from the WhyR Foundation. There are also our colleagues from the Chionis team. Chionis was founded as the response to the needs of a local medical facilities chain. We were developing the XAI - powered automatic diagnosis tool while gaining the experience crucial for meeting the milestones stated in this proposal. 
+
+Some of the Chionis members are: 
+1. Patryk Jasik PhD, Assistant Professor, working within the Gdańsk University of Technology, involved in handful of R&D projects combining AI and medicine. 
+2. Mariusz Liksza, Data Science Manager at Kinesso
+3. Adrian Kastrau, Data Scientist at Kinesso, his master thesis is immersed deeply in the subject of human emotions recognition. 
 

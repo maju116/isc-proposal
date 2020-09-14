@@ -1,6 +1,6 @@
-proposal<-"Boilerplate ISC Proposal"
+proposal<-"Platypus - ISC Proposal"
 proposal.file<-"isc-proposal.Rmd"
-author<-"Steph Locke"
+author<-"Team Platypus: Michał Maj, Jakub Borkowski, Tadeusz Satława, Poland, CEE"
 
 rmarkdown::render(proposal.file, output_format="html_document",
                   output_dir="out", quiet=TRUE)
