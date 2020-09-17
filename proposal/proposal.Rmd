@@ -8,7 +8,7 @@ The proposal is expected to answer the problem defined in the section above. In 
 <!--
 At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
 -->
-We seek the possibility to develop Platypus, which is now almost ready to be published on CRAN. After completing this project, that we think of as the first step in building whole XAI for medicine enviroment, few main milestones will have been completed. Generally Platypus will offer the functionality to build the end to end architecture, from ingesting medical file all the way to building the model able to learn from preprocessed data and then make its predictions, everything done within one R package. That is the response to lack of the medtech deep learning package for R language. This development is also the cornerstone for extending Platypus so it could offer XAI functionalities e.g grad-cam. Structuring most important elements of any deep learning architecture (including the steps like preprocessing) and fitting them into one package makes whole modelling process swift but in the meantime far more accesible to the less experienced users, enriching the whole Data Science-related part of the R community. 
+We seek the possibility to further develop `platypus`, which is now almost ready to be published on CRAN. After completing this project, that we think of as the first step in building whole DL for medicine environment, few main milestones will have been completed. Generally `platypus` will offer the functionality to build the end to end architecture, from ingesting medical (and not only) files all the way to building the models able to learn from preprocessed data and then make its predictions, everything done within one R package in a few lines of code. That is the response to lack of the med-tech deep learning package for R language. This development is also the cornerstone for extending `platypus` so it could offer XAI functionalities. Structuring most important elements of any deep learning architecture (including the steps like preprocessing) and fitting them into one package makes whole modeling process swift but in the meantime far more accessible to the less experienced users, enriching the whole Data Science-related part of the R community. 
 
 
 ## Detail
@@ -21,13 +21,13 @@ Depending on project type the detail section should include:
  - [ ] Architecture
  - [ ] Assumptions
 -->
-Diving into the details, what are we planning to do is first of all preparing the package to be published on CRAN, so it would be available to the wider group of R users. In this step some technological debt needs to be paid off, including designing unit tests, creating technical docummentation and lint. For the time being we have completed adding the CI and cost coverage.
+Diving into the details, what are we planning to do is first of all prepare the package to be published on CRAN, so it would be available to the wider group of R users. In this step some technological debt needs to be paid off, including designing unit tests, creating technical documentation and writing examples.
 
-Next we would move on to adding the functions for ingesting DICOM (and optionally NIFTY) files, including preprocessing associated mostly with data quality, sometimes appalingly poor when it comes to medical imaging. 
+Next we would move on to adding the functions for ingesting DICOM (and optionally NIFTI) files, including preprocessing associated mostly with data quality, sometimes appallingly poor when it comes to medical imaging. 
 
-After that being completed there would be time to deal with the data augmentation subject. All of the most practical and best performing augmentation techniques needs to become coherent part of Platypus architecture. Then we would start to simultaneously test whole structure while adding the bunch of new models to it (e.g. Faster R-CNN, Yolo4, Yolo5).
+After that being completed there would be time to deal with the data augmentation subject. All of the most practical and best performing augmentation techniques needs to become coherent part of `platypus` architecture. Then we would start to simultaneously test whole structure while adding the bunch of new models to it (e.g. Faster R-CNN, YOLOv4/5, SSD, U-Net++).
 
-Summarizing development of the package would not only adress the gap in the R packages ecosystem but also provide us with foundations indispensable for extending our creation even further, including adding the XAI features, 3D segmentation and the next class of models: Generative Adversarial Networks.
+Summarizing development of the package would not only address the gap in the R packages ecosystem but also provide us with foundations indispensable for extending our creation even further, including adding the XAI features, 3D segmentation and the next class of models: Generative Adversarial Networks.
 
 
 
