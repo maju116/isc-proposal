@@ -31,11 +31,8 @@ For the time being people contributing are solely the team members. In the neare
 <!-- 
 Who has been given the opportunity to provide feedback on the proposal? This should include any R Consortium & ISC members who the proposal has been discussed with.
 -->
-We are being constantly consulted by Marcin Kosiński from the [WhyR Foundation](http://whyr.pl/foundation/). There are also our colleagues from the Chionis team. Chionis was founded as the response to the needs of a local medical facilities chain. We were developing the XAI - powered automatic diagnosis tool while gaining the experience crucial for meeting the milestones stated in this proposal. 
 
-Some of the Chionis members are:
+ 1. Marcin Kosiński, chairman of the [WhyR Foundation](http://whyr.pl/foundation/)
+ 2. Patryk Jasik PhD, Assistant Professor, working within the Gdańsk University of Technology, involved in handful of R&D projects combining AI and medicine. 
 
- 1. Patryk Jasik PhD, Assistant Professor, working within the Gdańsk University of Technology, involved in handful of R&D projects combining AI and medicine. 
- 2. Mariusz Liksza, Data Science Manager at Kinesso [WYDAJE MI SIE ZE WYZSZY AUTORYTET JEST POTRZEBNY]
- 3. Adrian Kastrau, Data Scientist at Kinesso, his master thesis is immersed deeply in the subject of human emotions recognition. [WYDAJE MI SIE ZE WYZSZY AUTORYTET JEST POTRZEBNY]
 

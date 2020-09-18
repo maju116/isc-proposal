@@ -25,7 +25,9 @@ Diving into the details, what are we planning to do is first of all prepare the 
 
 Next we would move on to adding the functions for ingesting DICOM (and optionally NIFTI) files, including preprocessing associated mostly with data quality, sometimes appallingly poor when it comes to medical imaging. 
 
-After that being completed there would be time to deal with the data augmentation subject. All of the most practical and best performing augmentation techniques needs to become coherent part of `platypus` architecture. Then we would start to simultaneously test whole structure while adding the bunch of new models to it (e.g. Faster R-CNN, YOLOv4/5, SSD, U-Net++).
+After that being completed there would be time to deal with the data augmentation subject. All of the most practical and best performing augmentation techniques needs to become coherent part of `platypus` architecture.
+
+Then we would start to simultaneously test whole structure while adding the bunch of new models to it (e.g. Faster R-CNN, YOLOv4/5, SSD, U-Net++).
 
 Summarizing development of the package would not only address the gap in the R packages ecosystem but also provide us with foundations indispensable for extending our creation even further, including adding the XAI features, 3D segmentation and the next class of models: Generative Adversarial Networks.
 
