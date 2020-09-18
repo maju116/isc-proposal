@@ -8,10 +8,18 @@ An idea of what is required to make the project actually happen
 Who needs to be involved, what's the proposed structure, what will it take to get their involvement?
 -->
 
+The core team working on the project includes:
+
+1. Michał Maj -- the head of the project, responsible for the workflow, the core code of the project and implementation of deep learning architectures
+2. Jakub Borkowski -- the developer of core code of the project,
+3. Tadeusz Satława -- the developer of core code of the project,
+
 ## Processes
 <!-- 
 What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
 -->
+
+Package code can be found here: https://github.com/maju116/platypus, it will be used as a basis for the project. There will be weekly meetings of the group, discussing the progress of the project.
 
 ## Tools & Tech
 <!--
@@ -22,13 +30,16 @@ Will cloud computing be used - if yes are there are necessary components that wi
 Are there tools or tech that don't exist that will be produced to facilitate the project?
 -->
 
+We will use `devtools`, `roxygen2`, `testthat`, `covr`, `lintr` and other R packages for the purposes of the appropriate package development.
+
 ## Funding
 <!-- 
 [TO DO] THE GUIDANCE IS PRETTY UNCLEAR, ESP IN LIGHT OF GABOR'S PROPOSAL VS AWARD SIZE
 
 -->
 
-## Summary
-<!--
-A summary of the requirements that contextualises the costs
--->
+In order to pursue the development, staff time costs need to be subsidized:
+
+* Q1: $10,000
+* Q2: $10,000
+* Q3: $10,000

@@ -8,15 +8,24 @@ Projects should have a definition of done that is measurable, and a thorough und
 What does success look like? 
 -->
 
+The package `platypus` is capable of building advanced deep learning models for object detection and image segmentation and fitting them on custom image datasets. I can work with classical images (e.g. jpg, png) and with DICOMs. Is publishes on CRAN. The implemented work is demonstrated in several vignettes with real use cases, and advertised in blog posts.
+
+
 ## Measuring success
 <!-- 
 How will we know when success is achieved, what markers can we use along the way 
 -->
 
+Vignettes illustrate the usage and the successful application for sample use-cases. The package have been submitted to CRAN. The blog posts have been written.
+
+
 ## Future work
 <!-- 
 How could this be extended / developed in the future by yourself and/or the community in general?
 -->
+
+1. Addition of more deep learning architectures and processing / augmentation methods.
+2. Expanding environment with new packages (e.g. XAI, GANs)
 
 ## Key risks
 <!-- 
@@ -28,3 +37,5 @@ What sort of things could come up that can delay or break the project?
  - [ ] Costs
 
 -->
+
+ - costs will exceed the allocated resources due to unforeseen complexity,
