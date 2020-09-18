@@ -24,7 +24,7 @@ Q1 (01.01.2021-31.03.2021): Payment of technical debt (writing unit test for exi
 
 Q2 (01.04.2021-30.06.2021): Added ability to read medical images in DICOM (and possibly NIFTI) format, preprocessing method for medical images like CLASHE, addition of more advanced data augmentation methods, first CRAN release. 
 
-Q3 (01.07.2021-30.09.2021): Addition of at least two new deep learning architectures for object detection and image segmentation (e.g. Faster R-CNN, YOLOv4/5, SSD, U-Net++). 
+Q3 (01.07.2021-30.09.2021): Addition of at least two new deep learning architectures for object detection and image segmentation (e.g. Faster R-CNN, YOLOv4/5, SSD, U-Net++), second CRAN release. 
 
 ## Other aspects
 <!--
