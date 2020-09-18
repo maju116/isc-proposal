@@ -32,7 +32,8 @@ For the time being people contributing are solely the team members. In the neare
 Who has been given the opportunity to provide feedback on the proposal? This should include any R Consortium & ISC members who the proposal has been discussed with.
 -->
 
- 1. Marcin Kosiński, chairman of the [WhyR Foundation](http://whyr.pl/foundation/)
- 2. Patryk Jasik PhD, Assistant Professor, working within the Gdańsk University of Technology, involved in handful of R&D projects combining AI and medicine. 
+ 1. Przemysław Biecek PhD, Associate professor at Warsaw University of Technology and assistant professor Univeristy of Warsaw. Creator of DALEX package (moDel Agnostic Language for Exploration and eXplanation).
+ 2. Marcin Kosiński, chairman of the [WhyR Foundation](http://whyr.pl/foundation/)
+ 3. Patryk Jasik PhD, Assistant Professor, working within the Gdańsk University of Technology, involved in handful of R&D projects combining AI and medicine.
 
 
