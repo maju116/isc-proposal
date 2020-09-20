@@ -16,7 +16,7 @@ Who are the people responsible for actually delivering the project if the propos
 -->
 The mastermind behind the package and main team member is [Michał Maj](https://www.linkedin.com/in/michal-maj116/). He's a data scientist with over 5 years of experience in the field, R/Shiny developer and a freelancer interested in deep/machine learning and statistics. He loves challenges and is always ready to help solving data science problems. In his day to day work he is responsible for designing, testing and development of advanced deep and machine learning models in R and Python. He's a big R language enthusiast and a co-organizer of [R Enthusiasts meetups in Gdańsk](https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/). 
 
-Another core member representing mainly the AI section of the project is Jakub Borkowski. Bio Jakuba: .....
+Another core member is Jakub Borkowski. Graduated mathematician, constantly on the run, in seek of the new development tracks. Developing his own business from the age of seventeen and sculpting a XAI- powered solution, as the response to the needs of a local medical facilities chain has brought him to this point.
 
 Last but not least member is Tadeusz Satława, connecting the ideas of Data Science and the reliable programming practices. He graduated in 2012 from Applied Computer Science at AGH with BSc and MSc theses related to ECG signal processing. He also has a BSc from Biomedical Engineering at AGH and did an internship as a teaching assistant at the University. He gathered experience as a software engineer and data scientist in several companies.
 
