@@ -10,13 +10,22 @@ It is important to cover:
  - [ ] Why it should be tackled
 -->
 
-In times of the constantly accelerating technological growth it would be of much importance if it could impact on our lives, providing us with a safer and more comfortable world to exist in. Living longer and longer we want not only to have more but also to function better and preserve our dignity. That is why introducing high technologies to the delicate sphere of human's health is perceived as priority worldwide. That makes any lacks in the med-tech mosaic even more striking. And it struck us to see that there is no package, at least among the published ones, allowing the R community to use state of the art deep learning models and combining the elements of data augmentation, medical data ingestion and preprocessing (e.g. DICOM and NIFTI files). Existence of that kind of product would offer the less experienced R users possibility to develop their deep learning models quicker and in more structured manner. 
+In times of the constantly accelerating technological growth it would be of much importance if it could impact on our lives, providing us with a safer and more comfortable world to exist in. Living longer and longer we want not only to have more but also to function better and preserve our dignity. That is why introducing high technologies to the delicate sphere of human's health is perceived as priority worldwide. That makes any lacks in the med-tech mosaic even more striking. And it struck us to see that there is no package, at least among the published ones, allowing the R community to use state of the art deep learning models and combining the elements of data augmentation, medical data ingestion and preprocessing. Existence of that kind of product would offer the less experienced R users possibility to develop their deep learning models quicker and in more structured manner. 
 
 On the other hand plenty of the biggest companies use R on a daily basics (e.g. Roche). Nowadays if the larger enterprise wants to keep its position on the market, automatization with use of the sophisticated technology is inevitable. It is sufficient to mention that six out of ten main data and analytics trends concern AI and by the year 2023 nearly half of large enterprises are expected to be using AI because it offers up to three times higher rate of revenue growth comparing to the companies which do not use automatization.
 
 But does it affects us? We experience 67% drop in the biggest companies lifespan since 1950 and once again approximately $800 billion in revenue will shift toward AI-using companies. Moreover, just AI is not enough. In the face of GDPR and financial regulations, explicit decision making process will become crucial over the next years.
 
-Summing up, the need of providing both individual and larger members of the R community with the set of tools allowing to connect the power of deep learning with growing needs of medical sector is ubiquitous and engraved in the monument of advancement.
+Summing up, the need of providing both individual and larger members of the R community with the set of tools allowing to connect the power of deep learning with growing needs of medical sector is ubiquitous and engraved in the monument of advancement. That is why we aim at delivering the complete end to end tool for medical data reading, preprocessing, augmentation and finally building deep learning model on top of the elements mentioned
+
+Sources (to edit): 
+https://www.gartner.com/en/newsroom/press-releases/2019-02-18-gartner-identifies-top-10-data-and-analytics-technolo
+https://www.bcg.com/publications/2017/technology-digital-strategy-putting-artificial-intelligence-work
+https://www.cnbc.com/2017/08/24/technology-killing-off-corporations-average-lifespan-of-company-under-20-years.html
+https://www.gartner.com/smarterwithgartner/gartner-predicts-the-future-of-ai-technologies/
+
+
+
 
 
 
