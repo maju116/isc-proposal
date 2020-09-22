@@ -12,14 +12,16 @@ The core team working on the project includes:
 
 1. Michał Maj -- the head of the project, responsible for the workflow, the core code of the project and implementation of deep learning architectures
 2. Jakub Borkowski -- the developer of core code of the project,
-3. Tadeusz Satława -- the developer of core code of the project,
+3. Tadeusz Satława -- the developer of core code of the project.
+
+Biograms of the team members are included in the "Signatories" section.
 
 ## Processes
 <!-- 
 What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
 -->
 
-Package code can be found here: https://github.com/maju116/platypus, it will be used as a basis for the project. There will be weekly meetings of the group, discussing the progress of the project.
+Package code can be found here: https://github.com/maju116/platypus, it will be used as a basis for the project. There will be weekly meetings of the group, discussing the progress on the project.
 
 ## Tools & Tech
 <!--
@@ -38,8 +40,30 @@ We will use `devtools`, `roxygen2`, `testthat`, `covr`, `lintr` and other R pack
 
 -->
 
-In order to pursue the development, staff time costs need to be subsidized:
+In order to pursue the development, staff time costs need to be subsidized. Details are given below.
+The whole project lasts for the whole year. That gives twelve months. The declared availability of the supporting members (i.e. Jakub Borkowski and Tadeusz Satława) is 40 hours a month, and the agreed net salary is 50 PLN for hour, which is (on 22.09.2020) $13. 
+The leading member(i.e. Michał Maj) salary is agreed to be $20 for hour, he is planning to work for 48 hours a month.  
 
-* Q1: $10,000
-* Q2: $10,000
-* Q3: $10,000
+Cost of the supporting members:
+* Q1: $3 120
+* Q2: $3 120
+* Q3: $3 120
+* Q4: $3 120
+* Overall: $12 480 
+
+
+Cost of the leading member:
+* Q1: $3 000
+* Q2: $3 000
+* Q3: $3 000
+* Q4: $3 000
+* Overall: $12 000
+
+Moreover there is a members development funding which is expected to let the team to take additional DL courses (e.g. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?action=enroll&fbclid=IwAR36HY9BLA4XxqF3TlWNC1D9fog2YRs-NMRkCRP52D373L0PfczOMHGHzV4)), $50 a month.
+Overall costs:
+* Q1: $6 570
+* Q2: $6 570
+* Q3: $6 570
+* Q4: $6 570
+* Overall: $26 280 
+
