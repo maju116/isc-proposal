@@ -16,7 +16,7 @@ Who are the people responsible for actually delivering the project if the propos
 -->
 The mastermind behind the package and main team member is [Michał Maj](https://www.linkedin.com/in/michal-maj116/). He's a data scientist with over 5 years of experience in the field, R/Shiny developer and a freelancer interested in deep/machine learning and statistics. He loves challenges and is always ready to help solving data science problems. In his day to day work he is responsible for designing, testing and development of advanced deep and machine learning models in R and Python. He's a big R language enthusiast and a co-organizer of [R Enthusiasts meetups in Gdańsk](https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/). 
 
-Another core member is [Jakub Borkowski](https://www.linkedin.com/in/jakub-roman-borkowski-59b39814a/). Graduated mathematician (thesis: ,,Automatic diagnosis of x-ray images with the use of explainable artificial intelligence"). He co-founded R&D team sculpting a XAI- powered computer vision solution, as the response to the needs of a local medical facilities chain- Copernicus Podmiot Leczniczy Sp. z o.o. (.ltd). This project ended successfully on the 31.07.2020 and was founded by the National Centre of Research and Development (NCBiR) with indpispensable help from the [Excento company](http://excento.pl/e-pionier/rozwiazania-6-wyzwan-spoleczno-gospodarczych-zostaly-odebrane-w-okresie-wakacyjnym/) throughout the process. 
+Another core member is [Jakub Borkowski](https://www.linkedin.com/in/jakub-roman-borkowski-59b39814a/). Graduated mathematician (thesis: ,,Automatic diagnosis of x-ray images with the use of explainable artificial intelligence (XAI)"). He co-founded research and development (R&D) team sculpting XAI- powered computer vision solution, as the response to the needs of a local medical facilities chain- Copernicus Podmiot Leczniczy Sp. z o.o. (.ltd). This project ended successfully on the 31.07.2020 and was founded by the National Centre of Research and Development (NCBiR) with indpispensable help from the [Excento company](http://excento.pl/e-pionier/rozwiazania-6-wyzwan-spoleczno-gospodarczych-zostaly-odebrane-w-okresie-wakacyjnym/) throughout the process. 
 
 Last but not least member is Tadeusz Satława, connecting the ideas of Data Science and the reliable programming practices. He graduated in 2012 from Applied Computer Science at AGH with BSc and MSc theses related to ECG signal processing. He also has a BSc from Biomedical Engineering at AGH and did an internship as a teaching assistant at the University. He gathered experience as a software engineer and data scientist in several companies.
 
@@ -25,15 +25,16 @@ Last but not least member is Tadeusz Satława, connecting the ideas of Data Scie
 <!-- 
 Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?
 -->
-For the time being people contributing are solely the team members. In the nearest future, after the first stage of development, we will be eager to welcome any suggestions and assistance in enhancing `platypus` functionalities. 
+For the time being people contributing are solely the team members. In the nearest future, after the first stage of development, we will be eager to welcome any suggestions and assistance in enhancing `platypus` functionalities. Details on how the one can contribute are listed on the platypus project site:[Contributor Code of Conduct](https://github.com/maju116/platypus/blob/master/CODE_OF_CONDUCT.md)
+
 
 ## Consulted
 <!-- 
 Who has been given the opportunity to provide feedback on the proposal? This should include any R Consortium & ISC members who the proposal has been discussed with.
 -->
 
- 1. Przemysław Biecek PhD, Associate professor at Warsaw University of Technology and assistant professor at University of Warsaw. Creator of DALEX package (moDel Agnostic Language for Exploration and eXplanation).
- 2. Marcin Kosiński, chairman of the [WhyR Foundation](http://whyr.pl/foundation/)
- 3. Patryk Jasik PhD, Assistant Professor, working within the Gdańsk University of Technology, involved in handful of R&D projects combining AI and medicine.
+ 1. [Przemysław Biecek](https://www.linkedin.com/in/pbiecek/) PhD, Associate professor at Warsaw University of Technology and assistant professor at University of Warsaw. Creator of DALEX package (moDel Agnostic Language for Exploration and eXplanation).
+ 2. [Marcin Kosiński](https://www.linkedin.com/in/marcin-kosi%C5%84ski-81435aab/), chairman of the [WhyR Foundation](http://whyr.pl/foundation/)
+ 3. [Patryk Jasik](https://www.linkedin.com/in/patryk-jasik-3a937a148/) PhD, Assistant Professor, working within the Gdańsk University of Technology, involved in handful of R&D projects combining AI and medicine.
 
 

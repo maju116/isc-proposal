@@ -9,7 +9,7 @@ Covering the planning phase, this section should provide a relatively detailed p
  - [ ] Licence decisions
  - [ ] Reporting framework
 -->
-`platypus` was in development already for few months. It was published as an open-source package on github: https://github.com/maju116/platypus under MIT licence.  
+For the time being the `platypus` has already been under development for few months. It was published as an open-source package on github: https://github.com/maju116/platypus under the MIT licence. The funding would just let us continue our work on the project. 
 
 ## Technical delivery
 <!--
@@ -18,13 +18,16 @@ Covering the actual delivery of the project this section should provide at least
 Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery
 -->
 
-The project is outlined for a 9 month period. The following milestones summarize the technical deliveries by quarter:
+The project is outlined for 12-month period. The following summarize the technical deliveries by quarter:
 
-Q1 (01.01.2021-31.03.2021): Payment of technical debt (writing unit test for existing infrastructure, adding examples, creating more advanced CI, multi-platform testing), addition of basic data augmentation methods.
+Q1 (01.01.2021-31.03.2021): Payment of the technological debt: writing unit test for the existing infrastructure, adding examples, creating more advanced CI (for other R versions and running on Linux, Windows and Mac), multi-platform testing, addition of the basic data augmentation methods (translation, contrast manipulation, white noise addition).
 
-Q2 (01.04.2021-30.06.2021): Added ability to read medical images in DICOM (and possibly NIFTI) format, preprocessing method for medical images like CLASHE, addition of more advanced data augmentation methods, first CRAN release. 
+Q2 (01.04.2021-30.06.2021): Addition of ability to read medical images in the DICOM format, preprocessing methods for medical images (e.g. CLAHE), addition of more advanced data augmentation methods, first CRAN release. 
 
-Q3 (01.07.2021-30.09.2021): Addition of at least two new deep learning architectures for object detection and image segmentation (e.g. Faster R-CNN, YOLOv4/5, SSD, U-Net++), second CRAN release. 
+Q3 (01.07.2021-30.09.2021): Addition of at least one new deep learning architecture for image segmentation (e.g. Faster R-CNN, YOLOv4/5, SSD, U-Net++), second CRAN release.
+
+Q4 (01.10.2021-31.12.2021): Addition of at least one new deep learning architecture for object detection (e.g. Faster R-CNN, YOLOv4/5, SSD, U-Net++), third CRAN release. 
+
 
 ## Other aspects
 <!--
@@ -37,11 +40,11 @@ Covering non-technical activities like on-going publicity, paper preparation, di
  - [ ] ISC meetings
 -->
 
-The achieved milestones of development of the `platypus` will be covered on:
+Each of the finished quarter and achieved milestones associated with development of the `platypus` will be described on:
 
 1. Blog of Michał Maj
 2. R bloggers,
 3. Twitter,
 4. LinkedIn.
 
-During the project, `platypus` will be presented on many R conferences, workshops and meetings (for the time being we have two conferences confirmed: WhyR?2020: https://2020.whyr.pl/ and Data Science summit 2020: https://dssconf.pl/)
+During the project, `platypus` will be presented on as many as possible R conferences, workshops and meetings. For the time being we have two conferences confirmed: WhyR?2020: https://2020.whyr.pl/ and Data Science summit 2020: https://dssconf.pl/.

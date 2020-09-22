@@ -8,7 +8,7 @@ The proposal is expected to answer the problem defined in the section above. In 
 <!--
 At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
 -->
-We seek the possibility to further develop `platypus`, which is now almost ready to be published on CRAN. After completing this project, that we think of as the first step in building whole DL for medicine environment, few main milestones will have been completed. Generally `platypus` will offer the functionality to build the end to end architecture, from ingesting medical (and not only) files all the way to building the models able to learn from preprocessed data and then make its predictions, everything done within one R package in a few lines of code. That is the response to lack of the med-tech deep learning package for R language. This development is also the cornerstone for extending `platypus` so it could offer XAI functionalities. Structuring most important elements of any deep learning architecture (including the steps like preprocessing) and fitting them into one package makes whole modeling process swift but in the meantime far more accessible to the less experienced users, enriching the whole Data Science-related part of the R community. 
+We seek the possibility to further develop `platypus`, which is now almost ready to be published on CRAN. It is all thanks to the tremendous work of the package creator who brought it out of the startup phase. After completing this project, that we think of as the first step in building whole DL for medicine environment, few main milestones will have been completed. Generally `platypus` will offer the functionality to build the end to end architecture, from ingesting medical (and not only) files all the way to building the models able to learn from preprocessed data and then make its predictions, everything done within one R package in a few lines of code. That is the response to lack of the med-tech deep learning package for R language. Structuring most important elements of any deep learning architecture (including the steps like preprocessing) and fitting them into one package makes whole modeling process swift but in the meantime far more accessible to the less experienced users, enriching the whole Data Science-related part of the R community. 
 
 
 ## Detail
@@ -21,15 +21,15 @@ Depending on project type the detail section should include:
  - [ ] Architecture
  - [ ] Assumptions
 -->
-Diving into the details, what are we planning to do is first of all prepare the package to be published on CRAN, so it would be available to the wider group of R users. In this step some technological debt needs to be paid off, including designing unit tests, creating technical documentation and writing examples.
+Diving into the details, what we are planning to do is first of all to prepare the package to be published on CRAN, so it would be available to the wider group of R users. In this step some technological debt needs to be paid off, including designing unit tests, creating technical documentation and writing examples.
 
-Next we would move on to adding the functions for ingesting DICOM (and optionally NIFTI) files, including preprocessing associated mostly with data quality, sometimes appallingly poor when it comes to medical imaging. 
+Next we would move on to adding the functions for ingesting medical data, including preprocessing associated mostly with data quality, sometimes appallingly poor when it comes to medical imaging. Data format of interest would be the DICOM file (please, see the details [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3354356/)), one among the most popular types for storing the data related to the examination of the patient, it consists of the descriptive part called the metadata and the image.
 
-After that being completed there would be time to deal with the data augmentation subject. All of the most practical and best performing augmentation techniques needs to become coherent part of `platypus` architecture.
+After that being completed there would be time to finish the data augmentation subject. All of the most practical and best performing augmentation techniques needs to become coherent part of `platypus` architecture.
 
-Then we would start to simultaneously test whole structure while adding the bunch of new models to it (e.g. Faster R-CNN, YOLOv4/5, SSD, U-Net++).
+Then we would start to simultaneously test whole structure while adding at least two of the state of the art models to it, one serving for the data segmentation and the other appropriate for classification tasks.
 
-Summarizing development of the package would not only address the gap in the R packages ecosystem but also provide us with foundations indispensable for extending our creation even further, including adding the XAI features, 3D segmentation and the next class of models: Generative Adversarial Networks.
+Summarizing, development of the package would not only address the gap in the R packages ecosystem but also provide us with foundations indispensable for extending our creation even further, leading to the `deepverse`, the whole ensemble comprising XAI-related features, 3D segmentation functionalities and packages introducing the next class of models: Generative Adversarial Networks.
 
 
 

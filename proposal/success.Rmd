@@ -8,7 +8,7 @@ Projects should have a definition of done that is measurable, and a thorough und
 What does success look like? 
 -->
 
-The package `platypus` is capable of building advanced deep learning models for object detection and image segmentation and fitting them on custom image datasets. I can work with classical images (e.g. jpg, png) and with DICOMs. Is publishes on CRAN. The implemented work is demonstrated in several vignettes with real use cases, and advertised in blog posts.
+The `platypus` is capable of building advanced deep learning models for object detection and image segmentation and fitting them on custom image datasets. It can handle the regular image formats (e.g. jpg, png) and the data stored in DICOM. Package is published on CRAN while the whole work is demonstrated in several vignettes with real use cases, and advertised in blog posts.
 
 
 ## Measuring success
@@ -16,7 +16,14 @@ The package `platypus` is capable of building advanced deep learning models for 
 How will we know when success is achieved, what markers can we use along the way 
 -->
 
-Vignettes illustrate the usage and the successful application for sample use-cases. The package have been submitted to CRAN. The blog posts have been written.
+Milestones:
+Q1: At least 90% code coverage. At least 5 examples. Added and working lint. Multiplatform testing (CI on Linux, Windows and Mac).At least one data augmentation method implemented. The blog posts have been written.
+
+Q2: At least 2 examples based on medical data, specifically DICOM files. At least two preprocessing methods implemented. At least two data augmentation method added. CRAN release. The blog posts have been written.
+
+Q3: At least 2 working examples using the new model for image segmentation. CRAN release. The blog posts have been written.
+
+Q4: At least 2 working examples using the new model for object detection. CRAN release. The blog posts have been written.
 
 
 ## Future work
@@ -25,7 +32,7 @@ How could this be extended / developed in the future by yourself and/or the comm
 -->
 
 1. Addition of more deep learning architectures and processing / augmentation methods.
-2. Expanding environment with new packages (e.g. XAI, GANs)
+2. Expanding `deppverse` environment with new packages (e.g. XAI, GANs)
 
 ## Key risks
 <!-- 
@@ -37,5 +44,6 @@ What sort of things could come up that can delay or break the project?
  - [ ] Costs
 
 -->
-
- - costs will exceed the allocated resources due to unforeseen complexity,
+ With everything already on the move and the experience that the core contributors have in dealing with medical data and Data Science we see two main risks.
+ - Difficulties in the new models implementation due to the incompatibility of some Python and R packages. 
+ - Costs exceeding the allocated resources due to the unforeseen complexity.
